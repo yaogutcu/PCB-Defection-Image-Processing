@@ -1,10 +1,9 @@
-# PCB-Defection-Image-Processing
-
 # Automated PCB Defect Detection via Image Processing
 
-> This project focuses on developing an automated computer vision pipeline using Python and OpenCV to detect missing holes and manufacturing defects on Printed Circuit Boards (PCBs).
-> 
-> ⚠️ **Disclaimer:** Please note that comprehensive technical details, specific dataset augmentation scripts, and proprietary mathematical thresholds have been intentionally omitted from this public repository for academic confidentiality and intellectual property reasons.
+## Dataset Acknowledgement
+
+The algorithm was developed, tested, and validated using the publicly available **PCB Defect Dataset**. This dataset provides a wide variety of reference and faulty PCB image pairs with varying conditions, making it an ideal benchmark for evaluating structural comparison algorithms.
+* **Source:** [Kaggle - PCB Defect Dataset by Norbert Elter](https://www.kaggle.com/datasets/norbertelter/pcb-defect-dataset)
 
 ---
 
